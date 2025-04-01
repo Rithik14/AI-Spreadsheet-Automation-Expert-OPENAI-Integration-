@@ -1,6 +1,3 @@
-Here’s the updated **README** with the new name:
-
----
 
 # **AI Spreadsheet Automation Expert (OPENAI-Integration)** 🚀  
 Automatically generate professional LinkedIn posts using **OpenAI's GPT-4** in **Google Sheets**.  
