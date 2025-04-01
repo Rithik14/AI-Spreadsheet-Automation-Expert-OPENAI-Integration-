@@ -1,5 +1,5 @@
 
-# **AI Spreadsheet Automation Expert (OPENAI-Integration)** 🚀  
+# **AI Spreadsheet Automation Expert Using (OPENAI-Integration)** 🚀  
 Automatically generate professional LinkedIn posts using **OpenAI's GPT-4** in **Google Sheets**.  
 
 ## **🔹 Features**  
@@ -38,4 +38,3 @@ Automatically generate professional LinkedIn posts using **OpenAI's GPT-4** in *
 
 🚀 **Enjoy effortless LinkedIn content creation!**  
 
----
